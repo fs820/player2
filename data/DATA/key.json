@@ -1,0 +1,21 @@
+{
+  "keyMappings": 
+  {
+    "JOYKEY_UP": 0,
+    "JOYKEY_DOWN": 1,
+    "JOYKEY_LEFT": 2,
+    "JOYKEY_RIGHT": 3,
+    "JOYKEY_START": 4,
+    "JOYKEY_BACK": 5,
+    "JOYKEY_L3": 6,
+    "JOYKEY_R3": 7,
+    "JOYKEY_LB": 8,
+    "JOYKEY_RB": 9,
+    "JOYKEY_LT": 10,
+    "JOYKEY_RT": 11,
+    "JOYKEY_A": 12,
+    "JOYKEY_B": 13,
+    "JOYKEY_X": 14,
+    "JOYKEY_Y": 15
+  }
+}
